@@ -1,0 +1,9 @@
+Needed softwares:
+1. MySQL installer.msi 
+2. Eclipse IDE.exe
+3. XAMPP.exe
+
+Needed JAR file :
+1.mysql-connector-java.jar
+
+Create a database named 'super_market' in mysql using MySQL Workbench, to before run
